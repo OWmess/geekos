@@ -1,4 +1,5 @@
-# GeekOS
+# GeekOS 操作系统课设
+GeekOS 操作系统课设
 gcc version 7.5.0 (ubuntu18.04默认)
 
 在requirement文件夹下进入shell，输入
