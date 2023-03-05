@@ -1,0 +1,3 @@
+memmove.o: ../src/common/memmove.c /usr/include/stdc-predef.h \
+ ../include/libc/string.h \
+ /usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h
