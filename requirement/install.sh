@@ -6,6 +6,7 @@ echo '将在三秒后开始安装依赖'
 sleep 3
 sudo sed -i 's@//.*archive.ubuntu.com@//mirrors.ustc.edu.cn@g' /etc/apt/sources.list
 
+sudo apt update
 sudo apt install build-essential
 sudo apt install bochs bochs-x libc6-dev-i386
 
